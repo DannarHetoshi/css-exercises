@@ -58,7 +58,7 @@ button {
 }
 
 input {
-  border: 1px solid #ddd;
+  border: 2px solid rgb(34, 34, 34);
   border-radius: 16px;
   padding: 8px 24px;
   width: 400px;
