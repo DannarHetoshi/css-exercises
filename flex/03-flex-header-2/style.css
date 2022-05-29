@@ -10,9 +10,9 @@ body {
 
 .header {
   display: flex;
-  flex-direction: row;
   justify-content: space-between;
   align-items: center;
+  padding: 8px;
   background: white;
   border-bottom: 1px solid #ddd;
   box-shadow: 0 0 8px rgba(0,0,0,.1);
@@ -20,15 +20,13 @@ body {
 
 .container1 {
   display: flex;
-  margin: 5px;
-  padding: 5px;
+  align-items: center;
   gap: 8px;
 }
 
 .container2 {
   display: flex;
-  margin: 5px;
-  padding: 5px;
+  align-items: center;
   gap: 8px;
 }
 
